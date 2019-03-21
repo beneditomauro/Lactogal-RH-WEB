@@ -1,29 +1,22 @@
-# lactogal
+## App de interface entre os colaboradores da Lactogal e o departamento de RH
+Este projecto foi desenvolvido no contexto do [Academics Games of Engineering](https://www.facebook.com/events/139449506737613/)
+da FEUP. Foi um problema proposto pela Lactogal, com o objectivo de facilitar a comunicação entre os colaboradores e o gabinete de RH
 
-## Project setup
-```
-npm install
-```
+## Tech/framework used
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+<b>Built with</b>
+- [Javascript](https://www.javascript.com)
+- [Vue](https://vuejs.org/)
+- [Vuetify](https://vuetifyjs.com/en/)
+- [Firestore](https://firebase.google.com/docs/firestore/)
+- [NodeJS](https://nodejs.org/)
+- [Swift](https://developer.apple.com/swift/)
 
-### Compiles and minifies for production
-```
-npm run build
-```
 
-### Run your tests
-```
-npm run test
-```
 
-### Lints and fixes files
-```
-npm run lint
-```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+## Features
+- Receber notificações.
+- Consultar estado de uma pergunta.
+
+
